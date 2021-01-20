@@ -1,0 +1,9 @@
+.bg-primary,.btn-primary,.navbar-brand {
+    background-color: #ffc107!important;
+    border-color: #ffc107!important;
+    color: #fffbfb!important;
+
+}
+.bg-primary {
+    background-color: #ffc107!important;
+}
